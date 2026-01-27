@@ -1,6 +1,6 @@
 # Linux Basics for Beginners
 
-1. What Linux Is
+1. What Linux Is:
 Linux is an open‑source operating system used in servers, cloud platforms, cybersecurity, DevOps, and embedded systems.
 It’s built around the command line, which gives you precise control over the system.
 
